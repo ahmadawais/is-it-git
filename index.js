@@ -1,6 +1,9 @@
-/* IS IT GIT */
-
 /**
  * Is It Git.
  */
-module.exports = () => {};
+const fs = require('fs');
+const path = require('path');
+
+module.exports = () => {
+	return fs.existsSync(path.join(process.cwd(), '.git'));
+};

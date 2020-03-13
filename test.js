@@ -1,3 +1,5 @@
 const isItGit = require('./index.js');
 
-isItGit();
+const result = isItGit() ? `TEST PASSED` : `TEST FAILED`;
+console.log(result);
+console.log();

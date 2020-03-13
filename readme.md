@@ -23,6 +23,7 @@ npm install is-it-git
 
 ```js
 const isItGit = require('is-it-git');
+isItGit(); // Should be true if .git directory exists in the current working directory.
 ```
 
 <br>
