@@ -1,6 +1,6 @@
 {
 	"name": "is-it-git",
-	"version": "1.0.0",
+	"version": "1.1.0",
 	"description": "Checks if the current working directory is a git repository.",
 	"license": "MIT",
 	"repository": "ahmadawais/is-it-git",

@@ -29,12 +29,28 @@ I have released a video course to help you become a better developer — <a href
 
 <br>
 
+### RELEASE: [1.1.0](https://github.com/ahmadawais/is-it-git/compare/1.0.0...1.1.0)
+
+![📦 NEW:](https://img.shields.io/badge/-NEW-gray.svg?colorB=3778FF)
+
+> 📦 Dir option [`8639567`](https://github.com/ahmadawais/is-it-git/commit/86395677852b35cda2dd3e3b2370543de443da91) <br>
+
+<br>
+
+[![hr](https://raw.githubusercontent.com/ahmadawais/stuff/master/images/git/hr.png)](/)
+
+<br>
+
 ### RELEASE: 1.0.0
 
 ![📦 NEW:](https://img.shields.io/badge/-NEW-gray.svg?colorB=3778FF)
 
 > 📦 First commit [`da737cc`](https://github.com/ahmadawais/is-it-git/commit/da737cc42a1a7bb80605a6938037c29a588783cb) <br>
 > 📦 First version [`121046e`](https://github.com/ahmadawais/is-it-git/commit/121046e8df8015541b861c80e484ea1a2764d887) <br>
+
+![📖 DOC:](https://img.shields.io/badge/-DOCS-gray.svg?colorB=978CD4)
+
+> 📖 Changelog update [`4d204e0`](https://github.com/ahmadawais/is-it-git/commit/4d204e01a09bc815aebaab7af82fa339533e99bc) <br>
 
 <br>
 
