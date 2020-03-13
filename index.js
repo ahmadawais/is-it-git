@@ -4,6 +4,6 @@
 const fs = require('fs');
 const path = require('path');
 
-module.exports = () => {
-	return fs.existsSync(path.join(process.cwd(), '.git'));
+module.exports = (cwd = process.cwd()) => {
+	return fs.existsSync(path.join(cwd, '.git'));
 };

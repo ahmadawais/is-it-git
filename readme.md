@@ -26,6 +26,21 @@ const isItGit = require('is-it-git');
 isItGit(); // Should be true if .git directory exists in the current working directory.
 ```
 
+<br />
+
+[![📃](https://raw.githubusercontent.com/ahmadawais/stuff/master/images/git/options.png)](./../../)
+
+## API
+
+### isItGit(cwd?)
+
+#### ❯ cwd
+
+Type: `string`<br>
+Default: `process.cwd()` (optional)
+
+The current working directory.
+
 <br>
 
 [![📝](https://raw.githubusercontent.com/ahmadawais/stuff/master/images/git/log.png)](changelog.md)
